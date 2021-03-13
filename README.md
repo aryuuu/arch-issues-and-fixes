@@ -1,5 +1,5 @@
 # Arch issues and fixes
-List of issues in arch linux I have encountered and links to the solution
+List of issues in arch linux I have encountered and links to the solution, some of these issues might not be arch specific problem
 
 ## Table of Contents
 * [VS Code](#vs-code)
