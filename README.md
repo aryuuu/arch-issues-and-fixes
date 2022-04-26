@@ -8,3 +8,4 @@ List of issues in arch linux I have encountered and links to the solution, some 
 ## VS Code
 ### Unable to start live share extension
 https://wiki.archlinux.org/index.php/Visual_Studio_Code#VS_Live_Share_missing_API
+https://docs.microsoft.com/en-us/visualstudio/liveshare/reference/linux
